@@ -1,0 +1,5 @@
+Your answer for What is the difference between add, commit, and push?
+
+Add is when  you want to propose changes to the repository 
+Commit is when you prepare files that are already added and is ready to be transferred to the HEAD repository
+Push is when  you completely overwrite and transfer the files to the main repository
