@@ -29,8 +29,8 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
-NEW LINES by Rafael Perez
-sd
-sdsd
-sdd
-s
+3. NEW LINES by Rafael Perez
+4. s d
+-. sdsd
+5. sdd
+. -s
